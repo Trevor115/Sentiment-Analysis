@@ -2,6 +2,7 @@
 A lightweight Python sentiment classifier that uses simple lexical features and logistic regression–style scoring to predict whether a sentence is positive or negative.
 
 How It Works
+
 The classifier extracts features from text, including:
 
 Count of positive words
